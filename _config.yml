@@ -1,7 +1,6 @@
-remote_theme: monophase
+theme: minima
 plugins:
   - jekyll-relative-links
-  - jelyll-remote-theme
 relative_links:
   enabled: true
   collections: true
